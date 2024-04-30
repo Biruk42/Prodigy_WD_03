@@ -7,7 +7,7 @@
 .background {
   background: linear-gradient(135deg, #28292b 90%, #5c5a5a 100%);
   min-height: 100vh;
-  padding-top: 1px;
+  padding-top: 8px;
 }
 
 .title {
